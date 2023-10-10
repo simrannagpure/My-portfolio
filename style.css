@@ -79,6 +79,14 @@
     border-radius: 40px 40px 40px 40px;
     background: linear-gradient(145deg, #FC4A1A 0%, #F7B733 100%);
 }
+.fsd-tech{
+    position: absolute;
+    top: 147.89px;
+    left: 60%;
+    height: 100%;
+    width: 100%;
+    
+}
 .black-box-section{
     position: absolute;
     top: 730px;
@@ -137,6 +145,13 @@
     border-radius: 146px;
     border-color: orangered;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.photo img{
+    height: 100%;
+    width: 100%;
+    border-radius: 146px;
+    border: 2px solid orangered;
+    
 }
 .about-me-name{
     position: absolute;
